@@ -116,10 +116,10 @@ pivnet_poll_interval: 1h
 # azure_storage_container_name: CHANGEME
 # existing_opsman_vm_name: CHANGEME
 # ******* For AWS ******************************************
-# aws_access_key_id: CHANGEME
-# aws_secret_access_key: CHANGEME
-# aws_region: CHANGEME
-# aws_vpc_id: CHANGEME
+aws_access_key_id: abc123abadakjkjdka
+aws_secret_access_key: abc123abadakjkjdka
+aws_region: us-east-1
+aws_vpc_id: vpc-1234567
 # existing_opsman_vm_name: CHANGEME # Existing Ops Manager VM Name Pattern. This should uniquely filter to a running Ops Manager instance. eg.  myenv-OpsMan
 # ******* For VSPHERE **************************************
 vcenter_url: CHANGEME # vCenter URL - exclude protocol. e.g. vcsa-01.haas.pivotal.io
