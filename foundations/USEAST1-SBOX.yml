@@ -82,7 +82,7 @@ iaas_type: aws
 # These are used for uploading, staging and deploying product files on Operations Manager.
 # These are common parameters for ALL types of IaaS.
 # ops manager uri - do not include protocol. e.g. opsmgr.pez.pivotal.io/
-opsman_uri: http://172.128.21.5
+opsman_uri: http://172.128.31.5
 # ops manager admin user ID. e.g. admin
 opsman_admin_username: admin
 # Ops Manager admin password
