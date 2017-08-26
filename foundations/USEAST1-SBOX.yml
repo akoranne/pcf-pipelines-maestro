@@ -120,7 +120,7 @@ aws_access_key_id: abc123abadakjkjdka
 aws_secret_access_key: abc123abadakjkjdka
 aws_region: us-east-1
 aws_vpc_id: vpc-1234567
-# existing_opsman_vm_name: CHANGEME # Existing Ops Manager VM Name Pattern. This should uniquely filter to a running Ops Manager instance. eg.  myenv-OpsMan
+existing_opsman_vm_name: useast-opsman # Existing Ops Manager VM Name Pattern. This should uniquely filter to a running Ops Manager instance. eg.  myenv-OpsMan
 # ******* For VSPHERE **************************************
 vcenter_url: CHANGEME # vCenter URL - exclude protocol. e.g. vcsa-01.haas.pivotal.io
 vcenter_username: CHANGEME  # vCenter Username. e.g. administrator@vsphere.local
