@@ -58,7 +58,7 @@ BoM_tile_ERT_product_version: ^1\.11\..*$
 #
 #   Make `Apply-Changes" a separate and gated job in upgrade pipelines.
 #   Acceptable values: true or false
-gated-Apply-Changes-Job: true
+gated-Apply-Changes-Job: false
 #
 #   Experimental customization (work-in-progress and undergoing tests):
 #   Upgrade pipelines structure/style, either one pipeline per tile/opsmgr or
